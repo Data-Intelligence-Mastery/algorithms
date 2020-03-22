@@ -1,4 +1,4 @@
-The repository include algorithm questions and solutions. Feel free to email data.intelligence.mastery@gmail.com if you have any questions. Have fun coding!
+The repository include algorithm questions and solutions in Python. Feel free to email data.intelligence.mastery@gmail.com if you have any questions. Have fun coding!
 
 
 Click to open the [Algorithms Textbook](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/blob/master/Algorithmic%20toolbox%20course%201/Alexander%20S.%20Kulikov%2C%20Pavel%20Pevzner%20-%20Learning%20Algorithms%20Through%20Programming%20and%20Puzzle%20Solving%20(2018%2C%20Leanpub).pdf)
