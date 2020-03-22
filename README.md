@@ -5,6 +5,6 @@ Click to open the [Algorithms Textbook](https://github.com/sudheernaidu53/Data-S
 
 Others' work: 
 
-Python/Jave/C++: [Reference1](https://github.com/mablatnik/Algorithmic-Toolbox)
+[Reference1](https://github.com/mablatnik/Algorithmic-Toolbox) "Python/Jave/C++"
 
-C++: [Reference2](https://github.com/AbdallahHemdan/Algorithmic-Toolbox-San-Diego)
+[Reference2](https://github.com/AbdallahHemdan/Algorithmic-Toolbox-San-Diego) "C++"
