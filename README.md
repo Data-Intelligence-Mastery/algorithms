@@ -3,4 +3,6 @@ The repository include algorithm questions and solutions in Python. Feel free to
 
 Click to open the [Algorithms Textbook](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/blob/master/Algorithmic%20toolbox%20course%201/Alexander%20S.%20Kulikov%2C%20Pavel%20Pevzner%20-%20Learning%20Algorithms%20Through%20Programming%20and%20Puzzle%20Solving%20(2018%2C%20Leanpub).pdf)
 
-Others' work: [Reference1](https://github.com/mablatnik/Algorithmic-Toolbox)
+Others' work: 
+Python/Jave/C++: [Reference1](https://github.com/mablatnik/Algorithmic-Toolbox)
+C++: [Reference2](https://github.com/AbdallahHemdan/Algorithmic-Toolbox-San-Diego)
