@@ -18,5 +18,5 @@ Others' work:
 
 ## Simple RNN
 
-![Image](Simple RNN.png)
+![Image](https://github.com/Data-Intelligence-Mastery/algorithms/blob/master/Simple%20RNN.png)
 
