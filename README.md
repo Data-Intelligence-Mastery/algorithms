@@ -16,7 +16,4 @@ Others' work:
 
 [Commonly used Machine Learning Algorithms (with Python and R Codes)](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/)
 
-## Simple RNN
-
-![Image](https://github.com/Data-Intelligence-Mastery/algorithms/blob/master/Simple%20RNN.png)
 
