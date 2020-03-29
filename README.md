@@ -18,5 +18,5 @@ Others' work:
 
 ## Simple RNN
 
-![Image](misc/graphics/Simple RNN.png)
+![Image](Simple RNN.png)
 
